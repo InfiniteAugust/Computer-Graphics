@@ -1,4 +1,4 @@
-# Computer-Graphics
+# Projects about computer graphics using OpenFramework
 ## 3D Render Scene 
 Theme: Celestial Sphere and Telescope
 
